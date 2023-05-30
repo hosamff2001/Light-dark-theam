@@ -1,6 +1,8 @@
 # my_project
 
-Mobile Computing Final project.
+Mobile Computing Final project.   
+The idea of this project changed between the shape of the page based on the spread of light on the phone.   
+If more than 10 light is shined, it is converted to the Light Theam, and if it is less, it is transferred to the Dark Theam.   
 
 ## Getting Started
 
